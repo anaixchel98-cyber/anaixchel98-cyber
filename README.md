@@ -1,16 +1,23 @@
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4f46e5,100:06b6d4&height=220&section=header&text=Ana%20Ixchel&fontSize=50&fontAlignY=40&desc=Full-Stack%20Developer%20|%20AI%20Systems%20|%20Healthcare%20Technology&descAlignY=65" />
+</p>
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=28&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;AI+Workflow+Systems;Healthcare+Technology;Building+AI+powered+Platforms" />
+</p>
+
 <h1 align="center">Hi, I'm Ana Ixchel 👋</h1>
 
 <p align="center">
 Full-Stack Developer • AI Workflows • Healthcare Technology
 </p>
 
----
+
 
 ## About me
 
 I'm a **Full-Stack Developer** focused on building **AI-powered systems for healthcare operations**.
 
-My work combines **AI, automation, and modern web architectures** to improve clinical workflows and patient operations.
+My work combines **AI, automation, and modern web architectures** to improve clinical workflows and patient operations. Also Im a cool psychologist who loves coding. 
 
 Currently working on:
 
@@ -22,16 +29,15 @@ Currently working on:
 
 ---
 
-##  Current Focus
+## Current Focus
 
 - AI + Healthcare workflows  
 - Product-driven engineering  
 - Workflow automation systems  
 - Platform architecture  
 
----
 
-## 🛠 Tech Stack
+## Tech Stack
 
 <p>
 <img src="https://skillicons.dev/icons?i=react,ts,js,python,nodejs,graphql,mongodb,docker,git,html,css" />
@@ -47,16 +53,15 @@ Technologies I frequently work with:
 - **GraphQL**
 - **MongoDB**
 
----
 
-##  What I enjoy building
+##  Projects / Focus
 
-- AI powered applications  
-- Operational dashboards  
-- Workflow automation systems  
-- Healthcare technology platforms  
+- AI voice agents for patient engagement  
+- Clinical workflow automation systems  
+- GraphQL-based backend architectures  
+- Operational dashboards for clinics  
 
----
+
 
 ##  Connect with me
 
@@ -68,7 +73,7 @@ LinkedIn
 
 ---
 
-## 📈GitHub Stats
+##  GitHub Stats
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=anaixchel98-cyber&show_icons=true&theme=tokyonight" />
@@ -80,8 +85,12 @@ LinkedIn
 
 ---
 
-<p align="center">
-Building technology that solves real operational problems it is cooool. 
-</p><!--
-**anaixchel98-cyber/anaixchel98-cyber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## GitHub Activity
 
+[![Ana's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=anaixchel98-cyber&theme=tokyo-night)](https://github.com/anaixchel98-cyber)
+
+---
+
+<p align="center">
+Building technology that solves real operational problems.
+</p>
