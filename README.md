@@ -17,24 +17,22 @@ Full-Stack Developer • AI Workflows • Healthcare Technology
 
 I'm a **Full-Stack Developer** focused on building **AI-powered systems for healthcare operations**.
 
-My work combines **AI, automation, and modern web architectures** to improve clinical workflows and patient operations. Also Im a cool psychologist who loves coding. 
+My work combines **AI, automation, and modern web architectures** to improve clinical workflows and patient operations. Also Im a cool psychologist who loves coding and neuroscience 
 
-Currently working on:
+## Currently Working On
 
 - AI voice agents for patient engagement
-- Healthcare workflow automation
-- GraphQL-based systems
-- Internal platforms for clinics
-- Scalable frontend architectures
-
----
+- Healthcare workflow automation systems
+- Internal platforms for clinical operations
+- Full-stack systems for healthcare products
 
 ## Current Focus
 
-- AI + Healthcare workflows  
-- Product-driven engineering  
-- Workflow automation systems  
-- Platform architecture  
+- AI + Healthcare Systems
+- Workflow automation platforms
+- Human-centered software engineering
+- AI + Neuroscience exploration
+- Scalable system architecture
 
 
 ## Tech Stack
@@ -43,23 +41,15 @@ Currently working on:
 <img src="https://skillicons.dev/icons?i=react,ts,js,python,nodejs,graphql,mongodb,docker,git,html,css" />
 </p>
 
-Technologies I frequently work with:
-
-- **React**
-- **TypeScript**
-- **JavaScript**
-- **Python**
-- **Node.js**
-- **GraphQL**
-- **MongoDB**
 
 
-##  Projects / Focus
+## Interests
 
-- AI voice agents for patient engagement  
-- Clinical workflow automation systems  
-- GraphQL-based backend architectures  
-- Operational dashboards for clinics  
+- Artificial Intelligence
+- HealthTech
+- Neuroscience
+- Human cognition
+- Brain-inspired systems
 
 
 
