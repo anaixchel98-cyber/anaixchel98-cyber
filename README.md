@@ -61,23 +61,6 @@ LinkedIn
 </a>
 </p>
 
----
-
-##  GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=anaixchel98-cyber&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anaixchel98-cyber&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-## GitHub Activity
-
-[![Ana's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=anaixchel98-cyber&theme=tokyo-night)](https://github.com/anaixchel98-cyber)
 
 ---
 
