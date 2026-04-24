@@ -9,6 +9,7 @@
 
 <p align="center">
 Full-Stack Developer • AI Workflows • Healthcare Technology
+ 
 </p>
 
 
@@ -53,12 +54,19 @@ My work combines **AI, automation, and modern web architectures** to improve cli
 
 
 
-##  Connect with me
+<h2>🚀 Portfolio</h2>
 
 <p>
-<a href="https://www.linkedin.com/in/ana-ixchel-pérez-amezcua">
-LinkedIn
+<a href="https://noiseless-lycra-22f.notion.site/Ana-Ixchel-P-rez-34b3273c4cad80649b88e0d899de3878">
+🌐 View my Portfolio
 </a>
+</p>
+
+<h2>🤝 Connect with me</h2>
+
+<p>
+<a href="https://www.linkedin.com/in/ana-ixchel-pérez-amezcua">LinkedIn</a> • 
+<a href="mailto:ana.ixchel98@gmail.com">Email</a>
 </p>
 
 
